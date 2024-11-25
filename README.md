@@ -6,7 +6,7 @@
 - 📫 Feel free to reach out via email at **yaasserkarim@gmail.com** or check out my projects here!
 ### Certifications
 
-[![AWS Certified SysOps Administrator – Associate]](https://www.credly.com/badges/28dccf8e-f782-4483-b11d-91a84b7fcb08)(https://images.credly.com/size/110x110/images/1d2f1c1d-1f4f-4d2f-8b1b-5d2f1c1d1f4f.png)
+[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/1d2f1c1d-1f4f-4d2f-8b1b-5d2f1c1d1f4f.png)](https://www.credly.com/badges/28dccf8e-f782-4483-b11d-91a84b7fcb08)
 
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/4d2f1c1d-1f4f-4d2f-8b1b-5d2f1c1d1f4f.png)](https://www.credly.com/badges/4e993023-b458-4308-bbfe-e9ef9585acb7)
 
