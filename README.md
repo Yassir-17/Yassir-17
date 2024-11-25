@@ -7,7 +7,6 @@
 ### Certifications
 
 [![AWS SysOps Administrator](https://img.shields.io/badge/AWS-Certified_SysOps_Administrator--Associate-orange?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/28dccf8e-f782-4483-b11d-91a84b7fcb08)  
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/1d2f1c1d-1f4f-4d2f-8b1b-5d2f1c1d1f4f.png)](https://www.credly.com/badges/28dccf8e-f782-4483-b11d-91a84b7fcb08)
 
 [![AWS Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect--Associate-orange?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4e993023-b458-4308-bbfe-e9ef9585acb7)  
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/4d2f1c1d-1f4f-4d2f-8b1b-5d2f1c1d1f4f.png)](https://www.credly.com/badges/4e993023-b458-4308-bbfe-e9ef9585acb7)
